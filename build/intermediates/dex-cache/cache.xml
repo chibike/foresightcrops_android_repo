@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\44c3520bbfa81ecdf627e9f95026874ddbdc890c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_262a34eb1c407e4f4800c21326d73bee5f690431.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\7fc606a2dcc65c7165c684d973ed816aae08ba3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ce9d4bc6e01fd5e7addb8b115b33e0ce102da65\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8b39086b9b477125f97ced80d35ed8c95839815d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_6a92635f5c49df4c2b9f8bc9c7cace3ca6f46c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7fc606a2dcc65c7165c684d973ed816aae08ba3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_0ce9d4bc6e01fd5e7addb8b115b33e0ce102da65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\44c3520bbfa81ecdf627e9f95026874ddbdc890c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_262a34eb1c407e4f4800c21326d73bee5f690431\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\53cbfaeed15d538c081afea3e563572d4cfa15d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9588fec692fb899937c0c205a9d5ec0d1e7f81fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\8b39086b9b477125f97ced80d35ed8c95839815d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a92635f5c49df4c2b9f8bc9c7cace3ca6f46c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\53cbfaeed15d538c081afea3e563572d4cfa15d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_9588fec692fb899937c0c205a9d5ec0d1e7f81fc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\9d45f1b6f3087029f4e2a12bf3a4dccc18e91d81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f60e52c67a2868bb75af5d6da9f77bf3329a92d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_965823e3238fc366a37477d9c2920bc6c72d2ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\5344ed71910b4336494542951723c08b4e96d415\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e2a30043ce1d87e7fff8cd8a2118d921f47ec86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\6fe20eba84421076ed6fa2ae2c251b7aaa86df61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25b4f8ce7b23c5f9063281d82bc0841ec97233f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f01d5066ada3a68757a8c19db74dc222c9a72d4a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_f01d5066ada3a68757a8c19db74dc222c9a72d4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\6fe20eba84421076ed6fa2ae2c251b7aaa86df61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_25b4f8ce7b23c5f9063281d82bc0841ec97233f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af545a89ab8b0a062fb9a5b17203856fb87f4dc3">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a0d6db178e3e28836f2cdb2a0d45b12bbf276fc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\72eac5a271fa81f5f17a9cc5252c1a498c03f126\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f147c3e5923bc0ea09b13c8304045014f0f1ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5344ed71910b4336494542951723c08b4e96d415\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_3e2a30043ce1d87e7fff8cd8a2118d921f47ec86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9d45f1b6f3087029f4e2a12bf3a4dccc18e91d81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_f60e52c67a2868bb75af5d6da9f77bf3329a92d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\07be89698a39b3d7d5482567cd6f12cb4446be56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f575838aeee4e26f32bb4223f65a9fa303fd8b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\72eac5a271fa81f5f17a9cc5252c1a498c03f126\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_4f147c3e5923bc0ea09b13c8304045014f0f1ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\07be89698a39b3d7d5482567cd6f12cb4446be56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_2f575838aeee4e26f32bb4223f65a9fa303fd8b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\dee9a2ce09441e1308b1a7e531e4c7954d334916\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_98ec883ed2285f1094b272bedb99941a82909048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7ac380931b29bbd7d840fdf1399d7d5008ef3d01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_ac6f7005d91231953c49d87625444d89fab5e929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\4dcb1c36a953fcafb34d0a93fa20e7751bdaa948\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\pre-dexed\debug\classes_6de98eb2d1ebf44b155017c0948d3c8e06fc7e0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\4dcb1c36a953fcafb34d0a93fa20e7751bdaa948\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6de98eb2d1ebf44b155017c0948d3c8e06fc7e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\dee9a2ce09441e1308b1a7e531e4c7954d334916\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98ec883ed2285f1094b272bedb99941a82909048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.android\build-cache\7ac380931b29bbd7d840fdf1399d7d5008ef3d01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\user\AndroidStudioProjects\ForeSightsCrops\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac6f7005d91231953c49d87625444d89fab5e929\classes.dex" />
+    </item>
+
+</items>
